@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{97EA811E-4454-19E5-D0D1-AF9396AAD0E6}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GameDevCourse",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
