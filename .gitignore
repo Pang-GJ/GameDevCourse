@@ -39,7 +39,7 @@ Plugins/Developer/RiderLink/
 *.xcodeproj
 *.xcworkspace
 *.sln
-*.uproject
+# *.uproject
 *.suo
 *.opensdf
 *.sdf
@@ -77,3 +77,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Package
+Pack/
